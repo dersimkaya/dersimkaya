@@ -65,8 +65,6 @@ If you’re interested in data science, analytics, or mathematical modeling, fee
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dersimkaya&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dersimkaya&layout=compact&theme=tokyonight)
-
 ![](https://komarev.com/ghpvc/?username=dersimkaya&color=blue&style=flat)
 ![](https://img.shields.io/github/followers/dersimkaya?style=social)
 ![](https://visitor-badge.laobi.icu/badge?page_id=dersimkaya)

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dersim.
 
-## Mathematician • Data Scientist • AI Engineer
+## Mathematician • Data Scientist • GenAI Engineer
 
 I work at the intersection of **mathematics, data science, and software engineering**, building reproducible, scalable solutions for analytics, machine learning, and big‑data environments. My mathematical background shapes the way I think: structured, precise, and focused on problem‑solving.
 
